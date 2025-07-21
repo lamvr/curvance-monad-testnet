@@ -1,6 +1,6 @@
 # 🧪 Curvance on Monad Testnet
 
-**wallet:** `0xYourAddress`  
+**wallet:**  0xC87479bECD7b8b2BC6692721091606d8F184Ff5F
 **date:** July 2025  
 **actions:**
 - deposited test USDC  
