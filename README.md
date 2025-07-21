@@ -13,5 +13,9 @@
 - `0xdef...456` - borrow  
 - `0xghi...789` - repay  
 
-**feedback:** UI was smooth, borrow  needs adjustment, no bugs found  
+
+**feedback:**
+- borrow worked smoothly  
+- UI was responsive  
+- no repay function yet — might confuse first-timers   
 
